@@ -1,0 +1,3 @@
+include ':newtimekepper'
+include ':app'
+rootProject.name = "Timekeeper"
